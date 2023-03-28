@@ -5458,9 +5458,9 @@
 			productReference = 2540439E166ABA0A00E13304 /* ZXingObjC.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		DB72547E1A523C9200EFF81B /* iOS Framework */ = {
+		DB72547E1A523C9200EFF81B /* iOS-Framework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DB7254981A523C9300EFF81B /* Build configuration list for PBXNativeTarget "iOS Framework" */;
+			buildConfigurationList = DB7254981A523C9300EFF81B /* Build configuration list for PBXNativeTarget "iOS-Framework" */;
 			buildPhases = (
 				DB72547A1A523C9200EFF81B /* Sources */,
 				DB72547B1A523C9200EFF81B /* Frameworks */,
@@ -5471,7 +5471,7 @@
 			);
 			dependencies = (
 			);
-			name = "iOS Framework";
+			name = "iOS-Framework";
 			productName = "iOS Framework";
 			productReference = DB72547F1A523C9200EFF81B /* ZXingObjC.framework */;
 			productType = "com.apple.product-type.framework";
@@ -5513,7 +5513,7 @@
 				25404165166AADAC00E13304 /* ZXingObjC-osx */,
 				25404177166AADAC00E13304 /* Unit Tests OS X */,
 				2540439D166ABA0A00E13304 /* OS X Framework */,
-				DB72547E1A523C9200EFF81B /* iOS Framework */,
+				DB72547E1A523C9200EFF81B /* iOS-Framework */,
 			);
 		};
 /* End PBXProject section */
@@ -7392,7 +7392,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DB7254981A523C9300EFF81B /* Build configuration list for PBXNativeTarget "iOS Framework" */ = {
+		DB7254981A523C9300EFF81B /* Build configuration list for PBXNativeTarget "iOS-Framework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DB7254921A523C9300EFF81B /* Debug */,

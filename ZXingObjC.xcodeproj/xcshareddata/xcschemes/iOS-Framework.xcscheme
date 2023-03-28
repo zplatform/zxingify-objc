@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DB72547E1A523C9200EFF81B"
                BuildableName = "ZXingObjC.framework"
-               BlueprintName = "iOS Framework"
+               BlueprintName = "iOS-Framework"
                ReferencedContainer = "container:ZXingObjC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,7 +46,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DB72547E1A523C9200EFF81B"
             BuildableName = "ZXingObjC.framework"
-            BlueprintName = "iOS Framework"
+            BlueprintName = "iOS-Framework"
             ReferencedContainer = "container:ZXingObjC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -78,7 +78,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DB72547E1A523C9200EFF81B"
             BuildableName = "ZXingObjC.framework"
-            BlueprintName = "iOS Framework"
+            BlueprintName = "iOS-Framework"
             ReferencedContainer = "container:ZXingObjC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -94,7 +94,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DB72547E1A523C9200EFF81B"
             BuildableName = "ZXingObjC.framework"
-            BlueprintName = "iOS Framework"
+            BlueprintName = "iOS-Framework"
             ReferencedContainer = "container:ZXingObjC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
